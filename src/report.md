@@ -6,12 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* при пополнении счета клиента итоговая сумма становится отрицательной
-[ссылка на баг-репорт](https://github.com/DaryMarty/Money-Transfer/issues/1#issue-1052702700)
+* [Отрицательная сумма при пополнении счета клиента](https://github.com/DaryMarty/Money-Transfer/issues/1#issue-1052702700)
 ### Описание процесса тестирования
-В процессе тестирования использовались следующие артефакты:
-
-* [баг-репорт](https://github.com/DaryMarty/Money-Transfer/issues/1#issue-1052702700)
 
 В качестве тестовых данных использовались данные из [источника](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
